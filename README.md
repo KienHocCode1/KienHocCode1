@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trung Kien Bui. Welcome, how's your day?</h1>
+<h1 align="center">Hi 👋, I'm Kien Bui. Welcome, how's your day?</h1>
 <h3 align="center">A passionate software developer hunger for new experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kienhoccode1&label=Profile%20views&color=0e75b6&style=flat" alt="kienhoccode1" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **trung-kien.bui@mohawkcollege.ca**
 
-- ⚡ Fun fact **The Ocean is colder than the Sun**
+- ⚡ Fun fact **AI will take over the world like the movie Terminator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
