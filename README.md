@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kien Bui. Welcome, how's your day?</h1>
 <h3 align="center">A passionate software developer hunger for new experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kienhoccode1&label=Profile%20views&color=0e75b6&style=flat" alt="kienhoccode1" /> </p>
-<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kienhoccode1&label=Profile%20views&color=0e75b6&style=flat" alt="kienhoccode1" /> 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kienhoccode1" alt="kienhoccode1" /></a> </p>
 
 - 🔭 I’m currently working on **school projects**
@@ -19,12 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kien-bui-2505k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kien-bui-2505k/" height="30" width="40" /></a>
 <a href="https://facebook.com/kientrungbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kien bui" height="30" width="40" /></a>
-  <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kienhoccode1&show_icons=true&locale=en&layout=compact" alt="kienhoccode1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kienhoccode1&show_icons=true&locale=en" alt="kienhoccode1" /></p>
-
-<img src="https://raw.githubusercontent.com/KienHocCode1/KienHocCode1/output/snake.svg" alt="Snake animation" />
