@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kien Bui. Welcome, how's your day?</h1>
 <h3 align="center">A passionate software developer hunger for new experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kienhoccode1&label=Profile%20views&color=0e75b6&style=flat" alt="kienhoccode1" /> 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kienhoccode1&label=Profile%20views&color=0e75b6&style=flat" alt="kienhoccode1" /> 
+<img align="middle" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kienhoccode1" alt="kienhoccode1" /></a> </p>
 
 - 🔭 I’m currently working on **school projects**
